@@ -1,8 +1,8 @@
 {
   "domain": "pills_reminder",
   "name": "Pills Reminder Bot",
-  "documentation": "https://github.com/example/pills_reminder",
-  "codeowners": ["@example"],
+  "documentation": "https://github.com/nettless/pills_reminder",
+  "codeowners": ["@nettless"],
   "requirements": [],
   "version": "1.0.0",
   "config_flow": true,
