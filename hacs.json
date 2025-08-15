@@ -1,6 +1,6 @@
 {
     "name": "Pills Reminder Bot",
-    "content_in_root": false,
+    "content_in_root": true,
     "filename": "pills_reminder",
     "country": ["RU"],
     "hacs": "1.6.0",
