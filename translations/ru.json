@@ -1,0 +1,24 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Настройка бота напоминаний о таблетках",
+        "data": {
+          "bot_token": "Токен Telegram бота",
+          "chat_id": "ID чата/группы"
+        }
+      }
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Изменить настройки",
+        "data": {
+          "bot_token": "Токен Telegram бота",
+          "chat_id": "ID чата/группы"
+        }
+      }
+    }
+  }
+}

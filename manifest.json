@@ -1,0 +1,10 @@
+{
+  "domain": "pills_reminder",
+  "name": "Pills Reminder Bot",
+  "documentation": "https://github.com/example/pills_reminder",
+  "codeowners": ["@example"],
+  "requirements": [],
+  "version": "1.0.0",
+  "config_flow": true,
+  "iot_class": "cloud_polling"
+}

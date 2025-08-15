@@ -1,0 +1,7 @@
+DOMAIN = "pills_reminder"
+CONF_BOT_TOKEN = "bot_token"
+CONF_CHAT_ID = "chat_id"
+CONF_USER_ID = "user_id"
+CONF_USERNAME = "username"
+CONF_PILL_NAME = "pill_name"
+CONF_REMINDER_TIME = "reminder_time"
