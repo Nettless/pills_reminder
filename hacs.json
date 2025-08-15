@@ -1,0 +1,11 @@
+{
+    "name": "Pills Reminder Bot",
+    "content_in_root": false,
+    "filename": "pills_reminder",
+    "country": ["RU"],
+    "hacs": "1.6.0",
+    "homeassistant": "2023.1.0",
+    "iot_class": "Cloud Polling",
+    "zip_release": false,
+    "hide_default_branch": false
+}
